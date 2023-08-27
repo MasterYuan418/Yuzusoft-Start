@@ -1,0 +1,5 @@
+opencv-python
+wheel==0.41.2
+pygame
+pyautogui
+pillow
